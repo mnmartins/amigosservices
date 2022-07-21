@@ -1,4 +1,4 @@
 # amigosservices
-Java and Spring Boot Microsservices course from Amigoscode. #study
+amigoscode java and spring boot microservices course.
 
 Course link: https://youtu.be/1aWhYEynZQw
